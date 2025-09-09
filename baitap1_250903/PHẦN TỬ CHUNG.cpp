@@ -4,8 +4,7 @@
 using namespace std;
 
 
-int main() 
-{
+int m
     int nx,ny,nz;
     cin>>nx;
     set<int> X,Y,Z;
